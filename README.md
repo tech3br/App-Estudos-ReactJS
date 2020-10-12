@@ -1,4 +1,6 @@
-Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
+# Objetivo
+
+Um projeto pessoal onde criou um dashboard para acompanhar e anotar minha evolução nos estudos no mundo da programação, entre outras funcionalidades. Libs usadas: React, Styled Components, React Router DOM, React Router, TypeScript.
 
 ## Scripts Disponíveis
 
